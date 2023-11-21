@@ -1,4 +1,5 @@
 # auto-farm-owo
+![owo farm](https://media.discordapp.net/attachments/1171487336958263401/1175275706977095820/emoji.png?ex=656aa3cc&is=65582ecc&hm=392790674d9e3ff413cf0f5e844f68f42b01d5e5668368e26af14db1905c7081&)
 your prefix : !
 - **!run** = to run farm owo
 - **!stop** = to stop farm owo
