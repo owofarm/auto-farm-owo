@@ -1,8 +1,5 @@
 # auto-farm-owo
-your prefix : !
-**!run** = to run farm owo
-**!stop** = to stop farm owo
-**!ping** = to check ping selfbot
+your prefix : !\n**!run** = to run farm owo\n**!stop** = to stop farm owo\n**!ping** = to check ping selfbot
 
 # for mobile using replit or termux
 
