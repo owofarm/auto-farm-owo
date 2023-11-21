@@ -32,3 +32,4 @@ your prefix : !
 
 # FREE AUTO FARM OWO
 Confused? check tutorial on **[YOUTUBE VIDEOS](https://www.youtube.com)**
+![banner youtube](https://media.discordapp.net/attachments/1171487336958263401/1175282385038868480/20231118_115102.jpg?ex=656aaa04&is=65583504&hm=8dbca4e3dfc9221ad8abce57aa36616167e8002a243ef689778ebc42627ece1f&)
