@@ -16,6 +16,7 @@
 - cd auto-farm-owo
 - npm install `discord.js-selfbot-v13`
 - nano config.js and edit your **token, channel and userid**
+- press **[ctrl & x & y]** to save nano
 - node `index.js`
 
 **__REPLIT TUTORIAL__**
